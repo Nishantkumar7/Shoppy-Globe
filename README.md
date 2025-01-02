@@ -1,8 +1,36 @@
-# React + Vite
+# Shoppy Globe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, feature-rich e-commerce application built with React, Redux, and JavaScript
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+### 1. React
+### 2. JavaScript
+### 3. Redux ToolKit
+### 4. React Router DOM
+### 5. Tailwind CSS
+
+---
+
+## Installation and Setup
+
+### 1. Clone the repositories:
+
+```bash
+git clone https://github.com/Nishantkumar7/Shoppy-Globe.git
+cd Shoppy-Globe
+```
+
+### 2. Install Dependencies:
+
+```bash
+npm install
+```
+
+### 3. Run the Project:
+
+```bash
+npm run dev
+```
